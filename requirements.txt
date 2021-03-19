@@ -50,7 +50,7 @@ distributed==1.19.1
 Django==1.11.7
 django-cors-headers==2.1.0
 django-json-field==0.5.7
-djangorestframework==3.7.3
+djangorestframework==3.11.2
 docutils==0.14
 docx==0.2.4
 docx2txt==0.7
