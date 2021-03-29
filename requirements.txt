@@ -162,7 +162,7 @@ pycurl==7.43.0
 PyDictionary==1.5.2
 pydub==0.20.0
 pyflakes==1.6.0
-Pygments==2.2.0
+Pygments==2.7.4
 pygsr==0.1
 pyjarowinkler==1.8
 pylint==1.7.4
