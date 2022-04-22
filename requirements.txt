@@ -170,7 +170,7 @@ pymongo==3.6.0
 pyodbc==4.0.17
 pyOpenSSL==17.2.0
 pyparsing==2.2.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pypiwin32==220
 pyreadline==2.1
 PySocks==1.6.7
