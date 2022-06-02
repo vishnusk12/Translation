@@ -75,7 +75,7 @@ gTTS==1.2.2
 gTTS-token==1.1.1
 h5py==2.7.0
 heapdict==1.0.0
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.6
 image==1.5.16
 imageio==2.2.0
