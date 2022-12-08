@@ -21,7 +21,7 @@ boto==2.48.0
 Bottleneck==1.2.1
 bz2file==0.98
 CacheControl==0.12.3
-certifi==2017.7.27.1
+certifi==2022.12.7
 cffi==1.10.0
 chardet==3.0.4
 chatterbot-corpus==1.1.1
